@@ -1,7 +1,7 @@
 # React WeatherApp
 React WeatherApp with React.
 <br>
-Used; TailwindCSS, Redux, Openweathermap API.
+Used; TailwindCSS, Redux/Redux Toolkit, Openweathermap API.
 
 ![](https://i.hizliresim.com/sabbd5g.png)
 
